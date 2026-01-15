@@ -1,0 +1,28 @@
+{
+  "songs": [
+    {
+      "id": "ayo_mama",
+      "title": "Ayo Mama",
+      "origin": "Maluku",
+      "difficulty": "Mudah",
+      "style": "kolintang",
+      "bpm": 100
+    },
+    {
+      "id": "sirih-kuning",
+      "title": "Sirih Kuning",
+      "origin": "Jakarta (Betawi)",
+      "difficulty": "Sedang",
+      "style": "kolintang",
+      "bpm": 92
+    },
+    {
+      "id": "soleram",
+      "title": "Soleram",
+      "origin": "Riau",
+      "difficulty": "Mudah",
+      "style": "kolintang",
+      "bpm": 100
+    }
+  ]
+}
