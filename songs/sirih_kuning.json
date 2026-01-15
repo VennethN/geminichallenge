@@ -53,95 +53,19 @@
       ["F4", 4], ["C4", 4], ["F4", 4], ["C4", 4], ["C4", 4], ["F4", 4]
     ],
     "lyrics": [
-      {
-        "startBeat": 1,
-        "duration": 4,
-        "text": "Kalau tidak, nona, karena bulan, sayang"
-      },
-      {
-        "startBeat": 5,
-        "duration": 4,
-        "text": "Tidaklah bintang, ya nona, tidaklah bintang ya nona"
-      },
-      {
-        "startBeat": 9,
-        "duration": 2,
-        "text": "Meninggi hari"
-      },
-      {
-        "startBeat": 11,
-        "duration": 4,
-        "text": "Kalau tidak, nona, karena tuan, sayang"
-      },
-      {
-        "startBeat": 15,
-        "duration": 4,
-        "text": "Tidaklah kami, ya nona, tidaklah kami, ya nona"
-      },
-      {
-        "startBeat": 19,
-        "duration": 2,
-        "text": "Sampai kemari"
-      },
-      {
-        "startBeat": 21,
-        "duration": 4,
-        "text": "Sirih kuning, nona, batangnya ijo, nona"
-      },
-      {
-        "startBeat": 25,
-        "duration": 4,
-        "text": "Yang putih kuning, ya nona, yang putih kuning, ya nona"
-      },
-      {
-        "startBeat": 29,
-        "duration": 2,
-        "text": "Memang sejodo"
-      },
-      {
-        "startBeat": 31,
-        "duration": 4,
-        "text": "Ani-ani, nona, bukannya waja, sayang"
-      },
-      {
-        "startBeat": 35,
-        "duration": 4,
-        "text": "Dipakailah anak, ya nona, dipakailah anak, ya nona"
-      },
-      {
-        "startBeat": 39,
-        "duration": 2,
-        "text": "Patah tangkainya"
-      },
-      {
-        "startBeat": 41,
-        "duration": 4,
-        "text": "Kami nyanyi, nona, memang sengaja, sayang"
-      },
-      {
-        "startBeat": 45,
-        "duration": 4,
-        "text": "Lagunya asli, ya nona, lagunya asli, ya nona"
-      },
-      {
-        "startBeat": 49,
-        "duration": 2,
-        "text": "Pusaka lama"
-      },
-      {
-        "startBeat": 51,
-        "duration": 4,
-        "text": "Sirih kuning, nona, lagi ditampin, nona"
-      },
-      {
-        "startBeat": 55,
-        "duration": 4,
-        "text": "Kami menyanyi, ya nona, kami menyanyi, ya nona"
-      },
-      {
-        "startBeat": 59,
-        "duration": 2,
-        "text": "Mohon berhenti"
-      }
+      { "startBeat": 1, "duration": 7, "text": "Kalau tidak nona" },
+      { "startBeat": 9, "duration": 7, "text": "Karena bulan sayang" },
+      { "startBeat": 17, "duration": 7, "text": "Tidaklah bintang ya nona" },
+      { "startBeat": 25, "duration": 7, "text": "Tidaklah bintang ya nona" },
+      { "startBeat": 33, "duration": 7, "text": "meninggi hari" },
+      { "startBeat": 41, "duration": 7, "text": "Kalau tidak nona" },
+      { "startBeat": 49, "duration": 7, "text": "Karena tuan sayang" },
+      { "startBeat": 57, "duration": 7, "text": "Tidaklah kami ya nona" },
+      { "startBeat": 65, "duration": 7, "text": "Tidaklah kami ya nona" },
+      { "startBeat": 73, "duration": 7, "text": "sampai kemari" },
+      { "startBeat": 81, "duration": 7, "text": "Sirih kuning nona" },
+      { "startBeat": 89, "duration": 7, "text": "Yang putih kuning ya nona" },
+      { "startBeat": 97, "duration": 7, "text": "Yang putih kuning ya nona" },
+      { "startBeat": 105, "duration": 7, "text": "memang sejodo" }
     ]
   }

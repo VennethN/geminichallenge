@@ -1,0 +1,52 @@
+{
+  "id": "ayo_mama",
+  "title": "Ayo Mama",
+  "origin": "Maluku",
+  "difficulty": "Mudah",
+  "style": "kolintang",
+  "bpm": 100,
+  "melody": [
+    ["E4", 0.5], ["G4", 0.5],
+    ["C5", 1], ["C5", 1], ["REST", 0.5], ["B4", 0.5], ["A4", 0.5], ["B4", 0.5],
+    ["C5", 1], ["G4", 1], ["REST", 0.5],  ["E4", 0.5], ["G4", 0.5], ["C5", 0.5],
+    ["B4", 1], ["F4", 1], ["REST", 0.5], ["D4", 0.5], ["F4", 0.5], ["A4", 0.5],
+    ["G4", 1], ["E4", 2], ["E4", 0.5], ["G4", 0.5],
+    ["C5", 1],["C5", 1], ["REST", 0.5], ["C5", 0.5], ["B4", 0.5], ["C5", 0.5],
+    ["D5", 1], ["A4", 1], ["REST", 0.5], ["C5", 0.5], ["B4", 0.5], ["A4", 0.5],
+
+    ["G4", 0.5], ["A4", 0.5], ["G4", 0.5], ["F4", 0.5], ["E4", 1], ["D4", 1],
+    ["C4", 2], ["REST", 2],
+
+    ["G4", 0.5], ["F4", 0.5], ["E4", 0.5], ["E4", 0.5], ["REST", 0.5], ["E4", 0.25], ["E4", 0.25], ["E4", 0.5], ["E4", 0.5],
+    ["D4", 0.5], ["E4", 0.5], ["G4", 1], ["F4", 2],
+    ["REST", 0.5], ["A4", 0.5], ["G4", 0.5], ["F4", 0.5], ["F4", 0.5], ["REST", 0.5], ["F4", 0.25], ["F4", 0.25], ["F4", 0.5],
+    ["F4", 0.5], ["E4", 0.5], ["F4", 0.5], ["A4", 1], ["G4", 1.5],
+    ["REST", 0.5], ["G4", 0.5], ["F4", 0.5], ["E4", 0.5], ["E4", 0.5], ["REST", 0.5], ["C5", 0.25], ["C5", 0.25], ["C5", 0.5],
+    ["C5", 0.5], ["B4", 0.5], ["C5", 0.5], ["D5", 1], ["A4", 1.5],
+    ["REST", 0.5], ["C5", 0.5], ["B4", 0.5], ["A4", 0.5], ["G4", 0.5], ["A4", 0.5], ["G4", 0.5], ["F4", 0.5],
+    ["E4", 1], ["D4", 1], ["C4", 2]
+  ],
+  "chords": [
+    ["REST", 1],
+    ["C", 8], ["G", 4], ["C", 4], ["C", 4], ["F", 4], ["C", 2],
+    ["G", 2], ["C", 2], ["REST", 3], ["C", 4], ["G", 8.5], ["C", 4], ["F", 4], ["C", 4.5], ["G", 4.5], ["C", 2]
+  ],
+  "lyrics":[
+    { "startBeat": 0, "duration": 4, "text": "Ayam hitam" },
+    { "startBeat": 4, "duration": 4, "text": "Telurnya putih" },
+    { "startBeat": 8, "duration": 4, "text": "Mencari makan" },
+    { "startBeat": 12, "duration": 4, "text": "Di pinggir kali" },
+    { "startBeat": 16, "duration": 4, "text": "Sinyo Hitam" },
+    { "startBeat": 20, "duration": 4, "text": "Giginya putih" },
+    { "startBeat": 24, "duration": 4, "text": "Kalau ketawa" },
+    { "startBeat": 28, "duration": 4, "text": "Manis sekali" },
+    { "startBeat": 33, "duration": 4, "text": "Ayo mama" },
+    { "startBeat": 37, "duration": 4, "text": "Jangan mama marah beta" },
+    { "startBeat": 41, "duration": 4, "text": "Dia cuma" },
+    { "startBeat": 45, "duration": 4, "text": "Dia cuma pegang beta" },
+    { "startBeat": 49, "duration": 4, "text": "Ayo mama" },
+    { "startBeat": 53, "duration": 4, "text": "Jangan mama marah beta" },
+    { "startBeat": 57, "duration": 4, "text": "Lah orang muda" },
+    { "startBeat": 61, "duration": 4, "text": "Punya biasa" }
+  ]
+}
