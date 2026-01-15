@@ -1,0 +1,147 @@
+{
+    "id": "sirih-kuning",
+    "title": "Sirih Kuning",
+    "origin": "Jakarta (Betawi)",
+    "difficulty": "Sedang",
+    "style": "kolintang",
+    "bpm": 92,
+    "melody": [
+      ["REST", 1], ["G4", 1], ["E4", 1], ["G4", 1],
+      ["C5", 1.5], ["D5", 0.5], ["E5", 2],
+      ["REST", 1], ["D5", 0.5], ["C5", 0.5], ["B4", 1], ["A4", 1],
+      ["G4", 1.5], ["G4", 0.5], ["C5", 2],
+  
+      ["REST", 1], ["G4", 1], ["A4", 0.5], ["G4", 0.5], ["F4", 0.5], ["E4", 0.5],
+      ["F4", 1.5], ["E4", 0.5], ["D4", 1], ["D4", 1],
+      ["REST", 1], ["G4", 1], ["A4", 0.5], ["G4", 0.5], ["F4", 0.5], ["E4", 0.5],
+      ["F4", 1.5], ["E4", 0.5], ["D4", 1], ["D4", 1],
+      ["REST", 1], ["D5", 1], ["C5", 1], ["D5", 0.5], ["E5", 0.5],
+      ["C5", 4],
+  
+      ["REST", 1], ["G4", 1], ["E4", 1], ["G4", 1],
+      ["C5", 1.5], ["D5", 0.5], ["E5", 2],
+      ["REST", 1], ["D5", 0.5], ["C5", 0.5], ["B4", 1], ["A4", 1],
+      ["G4", 1.5], ["G4", 0.5], ["C5", 2],
+  
+      ["REST", 1], ["G4", 1], ["A4", 0.5], ["G4", 0.5], ["F4", 0.5], ["E4", 0.5],
+      ["F4", 1.5], ["E4", 0.5], ["D4", 1], ["D4", 1],
+      ["REST", 1], ["G4", 1], ["A4", 0.5], ["G4", 0.5], ["F4", 0.5], ["E4", 0.5],
+      ["F4", 1.5], ["E4", 0.5], ["D4", 1], ["D4", 1],
+      ["REST", 1], ["D5", 1], ["C5", 1], ["D5", 0.5], ["E5", 0.5],
+      ["C5", 4],
+  
+      ["REST", 1], ["E5", 1], ["D5", 1], ["C5", 1],
+      ["A4", 1.5], ["A4", 0.5], ["C5", 2],
+      ["REST", 1], ["D5", 0.5], ["C5", 0.5], ["B4", 1], ["A4", 1],
+      ["G4", 1.5], ["G4", 0.5], ["C5", 2],
+  
+      ["REST", 1], ["G4", 1], ["A4", 0.5], ["G4", 0.5], ["F4", 0.5], ["E4", 0.5],
+      ["F4", 1.5], ["E4", 0.5], ["D4", 1], ["D4", 1],
+      ["REST", 1], ["G4", 1], ["A4", 0.5], ["G4", 0.5], ["F4", 0.5], ["E4", 0.5],
+      ["F4", 1.5], ["E4", 0.5], ["D4", 1], ["D4", 1],
+      ["REST", 1], ["D5", 1], ["C5", 1], ["D5", 0.5], ["E5", 0.5],
+      ["C5", 4]
+    ],
+    "chords": [
+      ["F4", 4], ["F4", 4], ["Bb", 4], ["F4", 4],
+      ["F4", 4], ["C4", 4], ["F4", 4], ["C4", 4], ["C4", 4], ["F4", 4],
+  
+      ["F4", 4], ["F4", 4], ["Bb", 4], ["F4", 4],
+      ["F4", 4], ["C4", 4], ["F4", 4], ["C4", 4], ["C4", 4], ["F4", 4],
+  
+      ["Dm", 4], ["Dm", 4], ["Bb", 4], ["F4", 4],
+      ["F4", 4], ["C4", 4], ["F4", 4], ["C4", 4], ["C4", 4], ["F4", 4]
+    ],
+    "lyrics": [
+      {
+        "startBeat": 1,
+        "duration": 4,
+        "text": "Kalau tidak, nona, karena bulan, sayang"
+      },
+      {
+        "startBeat": 5,
+        "duration": 4,
+        "text": "Tidaklah bintang, ya nona, tidaklah bintang ya nona"
+      },
+      {
+        "startBeat": 9,
+        "duration": 2,
+        "text": "Meninggi hari"
+      },
+      {
+        "startBeat": 11,
+        "duration": 4,
+        "text": "Kalau tidak, nona, karena tuan, sayang"
+      },
+      {
+        "startBeat": 15,
+        "duration": 4,
+        "text": "Tidaklah kami, ya nona, tidaklah kami, ya nona"
+      },
+      {
+        "startBeat": 19,
+        "duration": 2,
+        "text": "Sampai kemari"
+      },
+      {
+        "startBeat": 21,
+        "duration": 4,
+        "text": "Sirih kuning, nona, batangnya ijo, nona"
+      },
+      {
+        "startBeat": 25,
+        "duration": 4,
+        "text": "Yang putih kuning, ya nona, yang putih kuning, ya nona"
+      },
+      {
+        "startBeat": 29,
+        "duration": 2,
+        "text": "Memang sejodo"
+      },
+      {
+        "startBeat": 31,
+        "duration": 4,
+        "text": "Ani-ani, nona, bukannya waja, sayang"
+      },
+      {
+        "startBeat": 35,
+        "duration": 4,
+        "text": "Dipakailah anak, ya nona, dipakailah anak, ya nona"
+      },
+      {
+        "startBeat": 39,
+        "duration": 2,
+        "text": "Patah tangkainya"
+      },
+      {
+        "startBeat": 41,
+        "duration": 4,
+        "text": "Kami nyanyi, nona, memang sengaja, sayang"
+      },
+      {
+        "startBeat": 45,
+        "duration": 4,
+        "text": "Lagunya asli, ya nona, lagunya asli, ya nona"
+      },
+      {
+        "startBeat": 49,
+        "duration": 2,
+        "text": "Pusaka lama"
+      },
+      {
+        "startBeat": 51,
+        "duration": 4,
+        "text": "Sirih kuning, nona, lagi ditampin, nona"
+      },
+      {
+        "startBeat": 55,
+        "duration": 4,
+        "text": "Kami menyanyi, ya nona, kami menyanyi, ya nona"
+      },
+      {
+        "startBeat": 59,
+        "duration": 2,
+        "text": "Mohon berhenti"
+      }
+    ]
+  }
