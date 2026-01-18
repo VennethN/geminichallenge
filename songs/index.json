@@ -4,6 +4,7 @@
       "id": "ayo_mama",
       "title": "Ayo Mama",
       "origin": "Maluku",
+      "cover_image": "https://raw.githubusercontent.com/VennethN/geminichallenge/main/swara/ayo_mama_cover.webp",
       "difficulty": "Mudah",
       "style": "kolintang",
       "bpm": 100,
@@ -56,6 +57,7 @@
       "id": "sirih-kuning",
       "title": "Sirih Kuning",
       "origin": "Jakarta (Betawi)",
+      "cover_image": "https://raw.githubusercontent.com/VennethN/geminichallenge/main/swara/sirih_kuning_cover.webp",
       "difficulty": "Sedang",
       "style": "kolintang",
       "bpm": 92,
@@ -129,6 +131,7 @@
       "title": "Soleram",
       "origin": "Riau",
       "difficulty": "Mudah",
+      "cover_image": "https://raw.githubusercontent.com/VennethN/geminichallenge/main/swara/soleram_cover.webp",
       "style": "kolintang",
       "bpm": 100,
       "melody": [
